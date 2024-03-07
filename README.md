@@ -1,3 +1,5 @@
+## CATALYST SPARK SQL DIAGRAMA ESTADOS
+
 ###  Análisis: 
   Durante esta fase, Catalyst convierte tu consulta SQL en un árbol de análisis abstracto(AST). Esto implica analizar la sintaxis de la consulta y verificar que las tablas y columnas referenciadas existan.
   
