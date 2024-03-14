@@ -1,7 +1,9 @@
+## Para los ejercicios usamos el fichero organizations-2000000.csv - bajado de [https://www.datablist.com/learn/csv/download-sample-csv-files ](https://drive.google.com/uc?id=18vlOi20KcMR328ewc2NBsoBNPrV3vL9Q&export=download)de unso 258 MBS
+
 ## CATALYST SPARK SQL DIAGRAMA ESTADOS
 
 ###  Análisis: 
-  Durante esta fase, Catalyst convierte tu consulta SQL en un árbol de análisis abstracto(AST). Esto implica analizar la sintaxis de la consulta y verificar que las tablas y columnas referenciadas existan.
+  Durante e sta fase, Catalyst convierte tu consulta SQL en un árbol de análisis abstracto(AST). Esto implica analizar la sintaxis de la consulta y verificar que las tablas y columnas referenciadas existan.
   
      Ejemplo : 
       Si tu consulta es 
